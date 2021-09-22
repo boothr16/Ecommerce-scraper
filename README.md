@@ -8,6 +8,6 @@ Package dependencies:
 5) urllib3
 
 TODO:
-1) Store SKU #'s by retailer in PostgreSQL DB.
-2) Replace current item links with add-to-cart links.
-3) Push email to client when a SKU becomes available to purchase.
+1) Use Selenium package to interface with JavaScript code on E-commerce websites.
+3) Replace current item links with add-to-cart links.
+4) Push email to client using Twilio API when a SKU becomes available to purchase.
